@@ -6,7 +6,7 @@ description: Some resource links I found usefull (especially for graduate studen
 nav: true
 ---
 
-1. Research Methods: An Engineering Approach [link](https://www.edx.org/course/research-methods-an-engineering-approach
+1. Research Methods [link](https://people.irisa.fr/Martin.Quinson/Research/Students/Methodo/
 ).
 
 2. Advice on how to succeed in grad school [link](https://www.youtube.com/watch?v=0lpwwOkSR-w&t=2s
@@ -21,3 +21,8 @@ nav: true
 
 
 5. Hamed Haddadi resources collection [link](https://haddadi.github.io/resources/).
+
+
+6. How to write a scientific abstract in six easy steps [link](https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/)
+
+7. Writing a good introduction [link](https://www.cs.columbia.edu/~hgs/etc/intro-style.html)

@@ -5,7 +5,7 @@ title: Publications
 description: 
 years: [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2017]
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="publications">

@@ -66,54 +66,30 @@ KEYWORDS="Multi-tenancy; Cloud; Performance Isolation; Rate Limiters; GNN; Netwo
 Optimization"
 }
 
-
-@INPROCEEDINGS{11073731,
+@inproceedings{ali2025pif,
+  title={PIF: A PI-based AQM that ensures performance isolation in multi tenant cloud data centers},
   author={Ali, Ahmed Ben and Labit, Yann and Nougnanke, Benoit},
-  booktitle={NOMS 2025-2025 IEEE Network Operations and Management Symposium}, 
-  title={PIF: A PI-Based AQM That Ensures Performance Isolation in Multi Tenant Cloud Data Centers}, 
+  booktitle={NOMS 2025-2025 IEEE Network Operations and Management Symposium},
+  pages={1--7},
   year={2025},
-  volume={},
-  number={},
-  pages={1-7},
-  keywords={Data centers;Adaptation models;Analytical models;PI control;Telecommunication traffic;Traffic control;Data models;Robustness;Resource management;Standards;Multi-tenant environment;Cloud Data Center;Control theory;AQM;Fairness;Performance isolation},
-  doi={10.1109/NOMS57970.2025.11073731}}
-
-
-@InProceedings{10.1007/978-3-032-07884-1_14,
-author="Nougnanke, Benoit
-and Blanc, Gregory
-and Robert, Thomas",
-editor="Nicomette, Vincent
-and Benzekri, Abdelmalek
-and Boulahia-Cuppens, Nora
-and Vaidya, Jaideep",
-title="How Dataset Diversity Affects Generalization in ML-Based NIDS",
-booktitle="Computer Security -- ESORICS 2025",
-year="2026",
-publisher="Springer Nature Switzerland",
-address="Cham",
-pages="269--288",
-abstract="Machine Learning-based Network Intrusion Detection Systems (ML-based NIDS) rely heavily on the quality of the datasets used for training and evaluation. However, widely used NIDS benchmarks often suffer from poor data diversity, which limits model generalization and undermines the reliability of evaluation protocols. While prior work has acknowledged this limitation, a systematic framework to quantify dataset diversity and analyze its relationship with performance is still missing. To address this gap, we introduce a structured approach for characterizing dataset diversity in ML-based NIDS, grounded in measurement theory. We distinguish three types of diversity---intra-class, inter-class, and domain-shift---and operationalize their measurement using established metrics such as the Vendi Score and the Jensen-Shannon divergence. Our empirical analysis on the CIC-IDS2018 dataset, spanning sixty diversity-controlled train--test experiments, provides new insights into the relationship between diversity and generalization and demonstrates the value of diversity-aware data sampling for improving evaluation reliability.",
-isbn="978-3-032-07884-1"
+  organization={IEEE}
 }
 
 
+@inproceedings{nougnanke2025dataset,
+  title={How Dataset Diversity Affects Generalization in ML-based NIDS},
+  author={Nougnanke, Benoit and Blanc, Gregory and Robert, Thomas},
+  booktitle={European Symposium on Research in Computer Security},
+  pages={269--288},
+  year={2025},
+  organization={Springer}
+}
 
-@inproceedings{10.1145/3773274.3774272,
-author = {Ben Ali, Ahmed and Labit, Yann and Nougnanke, Benoit and Baffier, Jean-Fran\c{c}ois},
-title = {Protocol-to-Model Translation Framework: Enabling Mathematically Tractable TCP Models for Autonomic Controller Design},
-year = {2026},
-isbn = {9798400722851},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3773274.3774272},
-doi = {10.1145/3773274.3774272},
-abstract = {Multi-tenant datacenter environments require autonomic network management systems that can adapt to heterogeneous TCP variants without manual intervention to maintain performance guarantees and SLA compliance. However, existing TCP modeling approaches cannot translate protocol specifications into control-theoretic models while preserving both the behavioral fidelity and mathematical tractability required for designing such self-managing systems. Previous work has failed to address the trade-off between modeling accuracy and mathematical properties essential for advanced controller synthesis, with classical models lacking accuracy for modern TCP variants and recent approaches sacrificing the tractability needed for real-time autonomic systems. This work introduces a protocol-derived framework that extends the Hollot-Misra approach with time-varying parameters extracted directly from RFC specifications, enabling mathematically tractable models that capture modern TCP behavior for autonomic controller design. We developed a systematic methodology encompassing protocol-derived parameter extraction from RFC 6582, mathematical property preservation ensuring controllability and observability, and comprehensive dual-scale validation through both detailed 6-flow mechanistic analysis and large-scale 200-flow statistical evaluation across realistic datacenter scenarios. This framework establishes the methodological foundation for bridging protocol engineering and control theory, enabling the development of sophisticated autonomic AQM controllers that can automatically adapt to diverse TCP variants while maintaining the mathematical guarantees essential for resilient datacenter network infrastructure.},
-booktitle = {Proceedings of the 18th IEEE/ACM International Conference on Utility and Cloud Computing},
-articleno = {17},
-numpages = {10},
-keywords = {TCP Modeling, Active Queue Management, Autonomic Systems, Datacenter Networks, Control Theory, Multi-Tenant Applications, Protocol Analysis},
-location = {
-},
-series = {UCC '25}
+
+@inproceedings{ben2025protocol,
+  title={Protocol-to-Model Translation Framework: Enabling Mathematically Tractable TCP Models for Autonomic Controller Design},
+  author={Ben Ali, Ahmed and Labit, Yann and Nougnanke, Benoit and Baffier, Jean-Fran{\c{c}}ois},
+  booktitle={Proceedings of the 18th IEEE/ACM International Conference on Utility and Cloud Computing},
+  pages={1--10},
+  year={2025}
 }

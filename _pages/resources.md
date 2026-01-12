@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resources/
-title: resources
+title: Resources
 description: Some resource links I found usefull (especially for graduate students).
 nav: true
 ---

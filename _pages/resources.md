@@ -4,6 +4,7 @@ permalink: /resources/
 title: Resources
 description: Some resource links I found usefull (especially for graduate students).
 nav: true
+nav_order: 4
 ---
 
 1. Research Methods [link](https://people.irisa.fr/Martin.Quinson/Research/Students/Methodo/

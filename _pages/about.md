@@ -22,8 +22,7 @@ My research lies at the intersection of networked systems and machine learning, 
 (ii) performance isolation in multi-tenant cloud and data center networks,
 and (iii) trustworthy automation for intent-based networking.
 
-Before my current position, I was a postdoctoral researcher at Telecom SudParis, where I worked on
-the SuperviZ project with [Gregory Blanc](https://cloudgravity.github.io/), focusing on dataset quality, diversity, and evaluation methodologies for machine-learning-based intrusion detection systems. 
+Before my current position, I was a postdoctoral researcher at Telecom SudParis, where I worked on the SuperviZ project with [Gregory Blanc](https://cloudgravity.github.io/), focusing on dataset quality, diversity, and evaluation methodologies for machine-learning-based intrusion detection systems. 
 I also held a JSPS postdoctoral fellowship at [IIJ Research Laboratory](https://www.iijlab.net/en/) (Tokyo, Japan) and was an associate member of the [JFLI](https://jfli.cnrs.fr/) (CNRS–Japan).
 
 I obtained a Ph.D. in Computer Science from [Université Paul Sabatier Toulouse III](https://www.univ-tlse3.fr/) and LAAS–CNRS as a member of the [SARA](https://www.laas.fr/fr/equipes/sara/) research group,
